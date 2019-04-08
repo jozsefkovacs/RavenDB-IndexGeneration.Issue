@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenDB-IndexGeneration.IssueTests", "RavenDB-IndexGeneration.IssueTests\RavenDB-IndexGeneration.IssueTests.csproj", "{84001EBC-639C-4318-B16B-3FFE988518A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenDB-IndexGeneration.Issue", "RavenDB-IndexGeneration.Issue\RavenDB-IndexGeneration.Issue.csproj", "{DA688E88-9FA0-4A91-8BB1-F217A5E21A34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84001EBC-639C-4318-B16B-3FFE988518A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84001EBC-639C-4318-B16B-3FFE988518A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84001EBC-639C-4318-B16B-3FFE988518A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84001EBC-639C-4318-B16B-3FFE988518A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA688E88-9FA0-4A91-8BB1-F217A5E21A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA688E88-9FA0-4A91-8BB1-F217A5E21A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA688E88-9FA0-4A91-8BB1-F217A5E21A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA688E88-9FA0-4A91-8BB1-F217A5E21A34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC4A58EE-F06E-41A7-A9EC-E7F1A9932DDF}
+	EndGlobalSection
+EndGlobal
